@@ -1,4 +1,4 @@
-Turtle Race Game
+##Turtle Race Game
 Welcome to the Turtle Race Game! This game is a fun and interactive way to test your luck by betting on which turtle will win the race.
 
 How It Works
