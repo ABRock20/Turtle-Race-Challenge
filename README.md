@@ -1,4 +1,4 @@
-## Turtle Race Game
+# Turtle Race Game
 Welcome to the Turtle Race Game! This game is a fun and interactive way to test your luck by betting on which turtle will win the race.
 
 ## How It Works
@@ -11,7 +11,22 @@ Welcome to the Turtle Race Game! This game is a fun and interactive way to test 
 - User input to select the turtle to bet on.
 - Randomized movement for each turtle, making each race unpredictable.
 
-## Getting Started
-# Prerequisites
+## Prerequisites
 - Python 3.x
 - Turtle library (usually included with Python)
+  
+## Installation
+1. Clone the repository:
+   ```
+    git clone https://github.com/ABRock20/Turtle-Race-Game.git
+2. Navigate to the project directory:
+   ```
+   cd Turtle-Race-Game
+3. Run the game:
+   ```
+   python main.py
+
+## How to Play
+1. Run the game.
+2. Enter your bet for the turtle color you think will win.
+3. Watch the race and see if your turtle wins!
